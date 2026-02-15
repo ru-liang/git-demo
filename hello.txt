@@ -14,3 +14,4 @@ hello ruliang!  hello Git!
 hello ruliang!  hello Git!
 hello ruliang!  hello Git! master test
 hello ruliang!  hello Git!
+hello ruliang!  hello Git! hot_fix test
